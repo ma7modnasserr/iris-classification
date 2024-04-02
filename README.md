@@ -7,11 +7,11 @@ The dataset used in this project can be found here'https://www.kaggle.com/datase
 
 ## Requirements
 To run the code in this repository, you'll need the following Python libraries:
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
+-pandas
+-numpy
+-matplotlib
+-seaborn
+-scikit-learn
 
 ## Models Implemented
 Logistic Regression
